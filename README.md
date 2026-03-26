@@ -73,7 +73,7 @@ https://forms.gle/XV86HEYxTT9k16P87
 ##  Tools & Platforms Used  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linkedin,python,cpp,google" />
+  <img src="https://skillicons.dev/icons?i=github,linkedin,hackerrank,kaggle" />
 </p>
 
 - GitHub  
